@@ -3,3 +3,4 @@
 #include<string.h>
 #include<math.h>
 #define 10
+srujan mg
